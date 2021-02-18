@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9CB03044-09B5-4665-9FF5-8A4B1F7CCBE3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2B5BB07-3E52-4501-A016-6035E94CEC1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demo_Food/API/API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "search(searchText:Handler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2B5BB07-3E52-4501-A016-6035E94CEC1D - cf85159e01a9a1d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo_Food.API.search(searchText: Swift.String, Handler: (Swift.Optional&lt;Swift.Array&lt;SwiftyJSON.JSON&gt;&gt;, demo_Food.NetworkErrors) -&gt; ()) -&gt; ()"
+                  moduleName = "demo_Food"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/4n4rk0z/Downloads/demo_Food/demo_Food/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "B2B5BB07-3E52-4501-A016-6035E94CEC1D - e61b542ab25272bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in demo_Food.API.search(searchText: Swift.String, Handler: (Swift.Optional&lt;Swift.Array&lt;SwiftyJSON.JSON&gt;&gt;, demo_Food.NetworkErrors) -&gt; ()) -&gt; ()"
+                  moduleName = "demo_Food"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/4n4rk0z/Downloads/demo_Food/demo_Food/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "217">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C35D8A3-1866-4E04-9329-411AD3BBB3A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demo_Food/API/API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "search(searchText:Handler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
